@@ -1,0 +1,60 @@
+h1{
+  text-align: left;
+  color: red;
+
+
+}
+h2{
+  text-align: left;
+  color: brown;
+
+
+
+
+}
+.author{
+  color: red;
+
+
+}
+.important{
+  font-style: oblique;
+  color: red;
+
+}
+.img{
+  float:left;
+
+
+}
+.unimportant{
+  font-family: sans-serif;
+  color: blue;
+
+}
+.recent{
+  background-color: inherit;
+
+}
+.test-box {
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+  background-color: yellow;
+}
+.older{
+  background-color: aqua;
+}
+h3{
+  text-align: center;
+  color: red;
+
+}
+.moringa{
+  background-color: aqua;
+
+}
+.travel{
+  color: brown;
+
+}
